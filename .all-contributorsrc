@@ -1,0 +1,25 @@
+{
+  "projectName": "bug-free-octo-spork",
+  "projectOwner": "kjh235",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": ["README.md"],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kjh235",
+      "name": "kjh235",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62350836?v=4",
+      "profile": "https://github.com/kjh235",
+      "contributions": ["ideas", "business"]
+    },
+    {
+      "login": "anthropics",
+      "name": "Claude (Anthropic)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4",
+      "profile": "https://claude.ai",
+      "contributions": ["code", "doc", "design"]
+    }
+  ]
+}
